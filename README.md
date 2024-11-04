@@ -19,5 +19,4 @@ This project is a clone of the ToDesktop website, designed to provide users with
 ## Acknowledgements
 - This project is inspired by the original ToDesktop website, which provided the foundation for the design and functionality of this clone.
 
-## Visit Site
-https://daulat68.github.io/ToDesktop-Clone/
+
